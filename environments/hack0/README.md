@@ -32,10 +32,9 @@ python env.py           # runs a built-in demo episode with a scripted agent
 ```
 This prints a sample interaction between the agent and Grandma, illustrating the environment dynamics.
 
-**Demo Video:** *(YouTube demo link to be added by user)*  
-**WandB Run:** *(WandB public run link to be added by user)*
+Video: https://youtube.com/shorts/YlfCiyAN1wg?feature=share
 
-## Metrics and Reward Design
+https://youtube.com/shorts/vsyYL2LBnJ0?feature=share
 
 Grandma’s House provides both fine-grained reward signals and additional metrics for each episode:
 
